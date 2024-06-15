@@ -27,7 +27,7 @@
   <p align="center">
     A awesome place to connect and grow into the FHNW Community!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/AdamkanY/frontendfhnw/edit/main/README.md">View Demo</a>
   </p>
 </div>
 
