@@ -156,8 +156,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+#### License
+
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kanouni-adam/
