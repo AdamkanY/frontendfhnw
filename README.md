@@ -62,9 +62,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Overview
+![image](https://github.com/AdamkanY/frontendfhnw/assets/164184857/80c542e3-6ef2-4ed6-8676-337a2b2c900e)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
