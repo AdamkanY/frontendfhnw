@@ -25,7 +25,7 @@
   <h3 align="center">FHNW Community </h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A awesome place to connect and grow into the FHNW Community!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
