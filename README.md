@@ -171,13 +171,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- CONTRIBUTING -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- LICENSE -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
