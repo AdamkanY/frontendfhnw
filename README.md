@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https: https://github.com/AdamkanY/frontendfhnw/edit/main/README.md -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -63,7 +63,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Overview
-![image](https://github.com/AdamkanY/frontendfhnw/assets/164184857/80c542e3-6ef2-4ed6-8676-337a2b2c900e)
+![image](https://github.com/AdamkanY/frontendfhnw/assets/164184857/2ee0abd5-ebdb-485a-9f12-453f907c70db)
+
 
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
