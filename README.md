@@ -1,12 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https: https://github.com/AdamkanY/frontendfhnw/edit/main/README.md -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+
 
 
 
@@ -81,7 +75,7 @@ Pages:
 * User Dashboard
 * Meet a Tutor
 * Create Advert Post
-
+Wesbite link : https://communityfhnw.budibase.app/app/communityfhnw#/home-page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
