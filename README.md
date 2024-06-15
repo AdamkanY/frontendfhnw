@@ -21,7 +21,7 @@
   <p align="center">
     A awesome place to connect and grow into the FHNW Community!
     <br />
-    <a href="https://github.com/AdamkanY/frontendfhnw/edit/main/README.md">View Demo</a>
+    <a href="https://tube.switch.ch/videos/p9EyqlUOTM">View Demo</a>
   </p>
 </div>
 
@@ -89,7 +89,7 @@ Wesbite link : https://communityfhnw.budibase.app/app/communityfhnw#/home-page
 ### Technologies Used 
 * HTML5
 * CSS3
-* JavaScript
+https://tube.switch.ch/videos/AYgd9cUaDd
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,7 +145,7 @@ The create advert post page allows users to create and publish advertisements fo
 
 <!-- ROADMAP -->
 ## Backend 
-
+https://tube.switch.ch/videos/QQz6mhPNG6
 **Domain Model**
 ![Blank diagram](https://github.com/MateuszOskedraFHNWAccount/Internet-Technology/assets/164078789/08f9b726-46f9-48ae-8fc9-cfadd216f411)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
