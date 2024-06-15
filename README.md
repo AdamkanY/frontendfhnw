@@ -48,8 +48,12 @@
       <a href="#Pages">Navigate Pages</a>
       <ul>
         <li><a href="#Homepage">Homepage</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#installation">Installation</a></li>
+         <li><a href="#login">Login</a></li>
+         <li><a href="#signup">Signup</a></li>
+         <li><a href="#tutor-looking">Tutor-Looking</a></li>
+         <li><a href="#user-dashboard">User Dashboard</a></li>
+         <li><a href="#meet-a-tutor">Meet a Tutor</a></li>
+         <li><a href="#create-advert-post">Create Advert Post</a></li>
       </ul>
     </li>
     <li><a href="#Back-end">Back-End</a></li>
